@@ -1,4 +1,4 @@
-# BOSE layout
+# BOSE landing
 Technology used:
 - HTML
 - Sass
